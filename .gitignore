@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated WAVE scenarios and sensor captures
+WAVE/results/
+WAVE/dataset_replay_fast/
+WAVE/legacy_inputs/
+WAVE/wz_scenario_*/
+WAVE/**/frames/
+WAVE/**/images/
+WAVE/**/annotations/
+WAVE/**/images_viz/

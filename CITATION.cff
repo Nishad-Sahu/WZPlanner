@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use WZPlanner or WAVE, please cite the accompanying paper."
+title: "WZPlanner: Safe End-to-End Path Planning for Autonomous Driving in Work Zones"
+type: software
+authors:
+  - family-names: Sahu
+    given-names: Nishad
+  - family-names: Qian
+    given-names: Changzhong
+  - family-names: Cai
+    given-names: Guangzhou
+  - family-names: Sural
+    given-names: Shounak
+  - family-names: Rajkumar
+    given-names: Ragunathan (Raj)
+repository-code: "https://github.com/Nishad-Sahu/WZPlanner"
+license: MIT
+date-released: 2026-09-16
